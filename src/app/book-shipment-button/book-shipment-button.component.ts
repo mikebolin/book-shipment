@@ -11,7 +11,12 @@ export class OrderConfirm implements OnInit {
   constructor(@Inject(DOCUMENT) private document: Document) { 
 
   }
-  ngOnInit() {  
+
+ngOnInit(){
+
+}
+
+
+
 
   }
-}
